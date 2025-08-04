@@ -37,3 +37,11 @@ Este projeto é **exclusivo para alunos** do **Curso Ninja do Cypress**. 🚫 O 
 ------
 
 💙 Feito com dedicação e muito café por **Fernando Papito** e a equipe do **Curso Ninja do Cypress**. 🚀🔥
+
+------
+📢 **Comando Úteis durante os testes:**
+    Para executar o servidor localhost na porta 3000 siga os passo
+        **Acess a pasta ./web do projeto**
+        **Execute npm run dev para rodar o servidor**
+📢 Para abrir o Cypress:
+        **Na pasta ./web execute o comando npx cypress open**
